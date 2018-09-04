@@ -21,6 +21,11 @@ body {
   bottom: 3rem;
   z-index: 10;
 }
+.carousel-caption h1{
+	background: rgba(0,0,0,0.6);
+	display: inline;
+	padding: 0 5px;
+}
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
